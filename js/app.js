@@ -23,7 +23,7 @@ $(document).ready(function() {
         images[index].classList.add('visible')
         images[index].classList.remove('slide');
       }
-    }, 100);
+    }, 300);
   });
 
 
